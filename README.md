@@ -2,7 +2,7 @@
 
 Utilizamos React-Native juntamente com Expo e TypeScript para o desenvolvimento desta aplicação.
 
-[!Mobile](images/mobile.png)
+![Mobile](images/mobile.png)
 
 ## How to run ?
 
